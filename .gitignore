@@ -1,0 +1,18 @@
+# personal usage data: never commit
+usage/
+*.csv
+*.svg
+*.svg.gz
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# os / editors
+.DS_Store
+.idea/
+.vscode/
+
+# crash leftovers
+*.tmp
